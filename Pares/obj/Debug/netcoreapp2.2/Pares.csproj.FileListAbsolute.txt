@@ -1,0 +1,11 @@
+C:\Users\49390062802\Desktop\Exercicios2\Pares\bin\Debug\netcoreapp2.2\Pares.deps.json
+C:\Users\49390062802\Desktop\Exercicios2\Pares\bin\Debug\netcoreapp2.2\Pares.runtimeconfig.json
+C:\Users\49390062802\Desktop\Exercicios2\Pares\bin\Debug\netcoreapp2.2\Pares.runtimeconfig.dev.json
+C:\Users\49390062802\Desktop\Exercicios2\Pares\bin\Debug\netcoreapp2.2\Pares.dll
+C:\Users\49390062802\Desktop\Exercicios2\Pares\bin\Debug\netcoreapp2.2\Pares.pdb
+C:\Users\49390062802\Desktop\Exercicios2\Pares\obj\Debug\netcoreapp2.2\Pares.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\Pares\obj\Debug\netcoreapp2.2\Pares.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Pares\obj\Debug\netcoreapp2.2\Pares.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Pares\obj\Debug\netcoreapp2.2\Pares.AssemblyInfo.cs
+C:\Users\49390062802\Desktop\Exercicios2\Pares\obj\Debug\netcoreapp2.2\Pares.dll
+C:\Users\49390062802\Desktop\Exercicios2\Pares\obj\Debug\netcoreapp2.2\Pares.pdb

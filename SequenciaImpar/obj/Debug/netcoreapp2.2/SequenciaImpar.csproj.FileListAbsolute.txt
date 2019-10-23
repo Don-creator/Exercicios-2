@@ -1,0 +1,11 @@
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\bin\Debug\netcoreapp2.2\SequenciaImpar.deps.json
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\bin\Debug\netcoreapp2.2\SequenciaImpar.runtimeconfig.json
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\bin\Debug\netcoreapp2.2\SequenciaImpar.runtimeconfig.dev.json
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\bin\Debug\netcoreapp2.2\SequenciaImpar.dll
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\bin\Debug\netcoreapp2.2\SequenciaImpar.pdb
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\obj\Debug\netcoreapp2.2\SequenciaImpar.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\obj\Debug\netcoreapp2.2\SequenciaImpar.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\obj\Debug\netcoreapp2.2\SequenciaImpar.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\obj\Debug\netcoreapp2.2\SequenciaImpar.AssemblyInfo.cs
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\obj\Debug\netcoreapp2.2\SequenciaImpar.dll
+C:\Users\49390062802\Desktop\Exercicios2\SequenciaImpar\obj\Debug\netcoreapp2.2\SequenciaImpar.pdb

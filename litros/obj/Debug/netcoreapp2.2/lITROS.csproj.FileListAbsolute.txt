@@ -1,0 +1,11 @@
+C:\Users\49390062802\Desktop\Exercicios2\Litros\bin\Debug\netcoreapp2.2\lITROS.deps.json
+C:\Users\49390062802\Desktop\Exercicios2\Litros\bin\Debug\netcoreapp2.2\lITROS.runtimeconfig.json
+C:\Users\49390062802\Desktop\Exercicios2\Litros\bin\Debug\netcoreapp2.2\lITROS.runtimeconfig.dev.json
+C:\Users\49390062802\Desktop\Exercicios2\Litros\bin\Debug\netcoreapp2.2\lITROS.dll
+C:\Users\49390062802\Desktop\Exercicios2\Litros\bin\Debug\netcoreapp2.2\lITROS.pdb
+C:\Users\49390062802\Desktop\Exercicios2\Litros\obj\Debug\netcoreapp2.2\lITROS.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\Litros\obj\Debug\netcoreapp2.2\lITROS.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Litros\obj\Debug\netcoreapp2.2\lITROS.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Litros\obj\Debug\netcoreapp2.2\lITROS.AssemblyInfo.cs
+C:\Users\49390062802\Desktop\Exercicios2\Litros\obj\Debug\netcoreapp2.2\lITROS.dll
+C:\Users\49390062802\Desktop\Exercicios2\Litros\obj\Debug\netcoreapp2.2\lITROS.pdb

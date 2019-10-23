@@ -1,0 +1,11 @@
+C:\Users\49390062802\Desktop\Exercicios2\Valores\obj\Debug\netcoreapp2.2\Valores.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\Valores\obj\Debug\netcoreapp2.2\Valores.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Valores\obj\Debug\netcoreapp2.2\Valores.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Valores\obj\Debug\netcoreapp2.2\Valores.AssemblyInfo.cs
+C:\Users\49390062802\Desktop\Exercicios2\Valores\bin\Debug\netcoreapp2.2\Valores.deps.json
+C:\Users\49390062802\Desktop\Exercicios2\Valores\bin\Debug\netcoreapp2.2\Valores.runtimeconfig.json
+C:\Users\49390062802\Desktop\Exercicios2\Valores\bin\Debug\netcoreapp2.2\Valores.runtimeconfig.dev.json
+C:\Users\49390062802\Desktop\Exercicios2\Valores\bin\Debug\netcoreapp2.2\Valores.dll
+C:\Users\49390062802\Desktop\Exercicios2\Valores\bin\Debug\netcoreapp2.2\Valores.pdb
+C:\Users\49390062802\Desktop\Exercicios2\Valores\obj\Debug\netcoreapp2.2\Valores.dll
+C:\Users\49390062802\Desktop\Exercicios2\Valores\obj\Debug\netcoreapp2.2\Valores.pdb
