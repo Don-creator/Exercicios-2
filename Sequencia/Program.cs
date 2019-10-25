@@ -4,9 +4,8 @@ namespace Sequencia {
     class Program {
         static void Main (string[] args) {
             int i;
-            int j = 100;
-            for (i = 0, Console.WriteLine ($"{i}, {j}"); i < j; i++, j--,
-            Console.WriteLine ($"{i}, {j}"));
-                }
+            for (i = 0, Console.WriteLine ($"{i},"); i < 100; i++,
+                Console.WriteLine ($"{i}"));
         }
     }
+}

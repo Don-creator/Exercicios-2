@@ -1,0 +1,11 @@
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\bin\Debug\netcoreapp2.2\TresNumeros.deps.json
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\bin\Debug\netcoreapp2.2\TresNumeros.runtimeconfig.json
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\bin\Debug\netcoreapp2.2\TresNumeros.runtimeconfig.dev.json
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\bin\Debug\netcoreapp2.2\TresNumeros.dll
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\bin\Debug\netcoreapp2.2\TresNumeros.pdb
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\obj\Debug\netcoreapp2.2\TresNumeros.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\obj\Debug\netcoreapp2.2\TresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\obj\Debug\netcoreapp2.2\TresNumeros.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\obj\Debug\netcoreapp2.2\TresNumeros.AssemblyInfo.cs
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\obj\Debug\netcoreapp2.2\TresNumeros.dll
+C:\Users\49390062802\Desktop\Exercicios2\Trezentos\obj\Debug\netcoreapp2.2\TresNumeros.pdb

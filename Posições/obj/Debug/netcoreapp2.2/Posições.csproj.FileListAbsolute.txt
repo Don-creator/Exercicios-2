@@ -1,0 +1,11 @@
+C:\Users\49390062802\Desktop\Exercicios2\Posições\bin\Debug\netcoreapp2.2\Posições.deps.json
+C:\Users\49390062802\Desktop\Exercicios2\Posições\bin\Debug\netcoreapp2.2\Posições.runtimeconfig.json
+C:\Users\49390062802\Desktop\Exercicios2\Posições\bin\Debug\netcoreapp2.2\Posições.runtimeconfig.dev.json
+C:\Users\49390062802\Desktop\Exercicios2\Posições\bin\Debug\netcoreapp2.2\Posições.dll
+C:\Users\49390062802\Desktop\Exercicios2\Posições\bin\Debug\netcoreapp2.2\Posições.pdb
+C:\Users\49390062802\Desktop\Exercicios2\Posições\obj\Debug\netcoreapp2.2\Posições.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\Posições\obj\Debug\netcoreapp2.2\Posições.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Posições\obj\Debug\netcoreapp2.2\Posições.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\Posições\obj\Debug\netcoreapp2.2\Posições.AssemblyInfo.cs
+C:\Users\49390062802\Desktop\Exercicios2\Posições\obj\Debug\netcoreapp2.2\Posições.dll
+C:\Users\49390062802\Desktop\Exercicios2\Posições\obj\Debug\netcoreapp2.2\Posições.pdb
