@@ -1,24 +1,34 @@
 ﻿using System;
+using System.Collections;
 
 namespace Posições {
     class Program {
         static void Main (string[] args) {
-            int[] array = new int[5];
+            string[] X = new string[3];
+            string[] Y = new string[3];
+            string[] R = new string[6];
 
-            array[0] = 1;
-            array[1] = 2;
-            array[2] = 3;
-            array[3] = 4;
-            array[4] = 5;
-            array[5] = 6;
-
-            foreach (int valor in array)
-            {
-
-                Console.WriteLine (valor.ToString ());
-
+            for (int i = 0; i < 3; i++) {
+                Console.Write ("Digite o valor de X: ", i);
+                X[i] = Console.ReadLine ();
+                Console.Write ("Digite o valor de Y: ", i);
+                Y[i] = Console.ReadLine ();
             }
 
+            for (int y = 0; y < 3; y++) {
+                R[y] = X[y];
+            }
+
+            int z = 3;
+            for (int i = 0; i < 3; i++) {
+                R[z] = Y[i];
+                z++;
+            }
+
+            for (int i = 0; i < 6; i++) {
+                Console.WriteLine (R[i]);
+            }
+            Console.ReadKey ();
         }
     }
 }

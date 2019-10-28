@@ -1,0 +1,4 @@
+C:\Users\49390062802\Desktop\Exercicios2\DuasListas\obj\Debug\netcoreapp2.0\DuasListas.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\DuasListas\obj\Debug\netcoreapp2.0\DuasListas.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\DuasListas\obj\Debug\netcoreapp2.0\DuasListas.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\DuasListas\obj\Debug\netcoreapp2.0\DuasListas.AssemblyInfo.cs
