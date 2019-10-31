@@ -1,0 +1,11 @@
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\obj\Debug\netcoreapp2.2\LaHueraDelTapa.csprojAssemblyReference.cache
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\obj\Debug\netcoreapp2.2\LaHueraDelTapa.csproj.CoreCompileInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\obj\Debug\netcoreapp2.2\LaHueraDelTapa.AssemblyInfoInputs.cache
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\obj\Debug\netcoreapp2.2\LaHueraDelTapa.AssemblyInfo.cs
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\bin\Debug\netcoreapp2.2\LaHueraDelTapa.deps.json
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\bin\Debug\netcoreapp2.2\LaHueraDelTapa.runtimeconfig.json
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\bin\Debug\netcoreapp2.2\LaHueraDelTapa.runtimeconfig.dev.json
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\bin\Debug\netcoreapp2.2\LaHueraDelTapa.dll
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\bin\Debug\netcoreapp2.2\LaHueraDelTapa.pdb
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\obj\Debug\netcoreapp2.2\LaHueraDelTapa.dll
+C:\Users\49390062802\Desktop\Exercicios2\LaHueraDelTapa\obj\Debug\netcoreapp2.2\LaHueraDelTapa.pdb
