@@ -9,9 +9,9 @@ namespace PortouEletronico
             int[] Nota = new int[0];
 
             Console.WriteLine("Entre com o valor: ");
-            Nota = int.Parse(Console.ReadLine());
+            Console.ReadLine();
             
-            for()
+            
         }
     }
 }
