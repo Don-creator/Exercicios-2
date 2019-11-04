@@ -1,6 +1,6 @@
 using Zoo.Interfaces;
 namespace Zoo.Models.Animais {
-    public class Escalar : Animal, IArboricula
+    public class Chimpanzé : Animal, IArboricula
     {
         public string EscalarArvores () 
         {
